@@ -1,0 +1,91 @@
+[[atomsk]]
+arch = "aarch64"
+git-tree-sha1 = "8515b817ca433142af6513c3db727274747200c4"
+libc = "glibc"
+os = "linux"
+
+    [[atomsk.download]]
+    sha256 = "a12000f7ef4f1ef396cd3dc689a696c4d13569c0a317ccb2ca7e8649bcdeeaa2"
+    url = "https://github.com/rashidrafeek/atomsk_jll.jl/releases/download/atomsk-v0.11.2+0/atomsk.v0.11.2.aarch64-linux-gnu.tar.gz"
+[[atomsk]]
+arch = "aarch64"
+git-tree-sha1 = "0767051413fc8b6ca2d6746d6ebaebc15e1391d4"
+libc = "musl"
+os = "linux"
+
+    [[atomsk.download]]
+    sha256 = "e73c9cce367e03c1d47df3f8ecb40790ebee9bee68d2469651a92afb27e64cdf"
+    url = "https://github.com/rashidrafeek/atomsk_jll.jl/releases/download/atomsk-v0.11.2+0/atomsk.v0.11.2.aarch64-linux-musl.tar.gz"
+[[atomsk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3e49c7163cadb5baf797d05cc12ac7739b9f7a68"
+libc = "glibc"
+os = "linux"
+
+    [[atomsk.download]]
+    sha256 = "163c6e25cf901dd6cfd23cd58d19a2f0426bfe36e06e69d37ca4a5232a2f6324"
+    url = "https://github.com/rashidrafeek/atomsk_jll.jl/releases/download/atomsk-v0.11.2+0/atomsk.v0.11.2.armv7l-linux-gnueabihf.tar.gz"
+[[atomsk]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2da59b867cd2055ef53ec4974ce57bfb77e461e2"
+libc = "musl"
+os = "linux"
+
+    [[atomsk.download]]
+    sha256 = "50a5d09920a24d53fdf23f8808b928f36b30936563a8681b12aede86b1d40369"
+    url = "https://github.com/rashidrafeek/atomsk_jll.jl/releases/download/atomsk-v0.11.2+0/atomsk.v0.11.2.armv7l-linux-musleabihf.tar.gz"
+[[atomsk]]
+arch = "i686"
+git-tree-sha1 = "52b4deef0ec933dd3fa6ff83b03b3fe3bae34b58"
+libc = "glibc"
+os = "linux"
+
+    [[atomsk.download]]
+    sha256 = "1c89d062fe83dacc033345cfe661f957b525c937858d72f819daafb69b0dab9a"
+    url = "https://github.com/rashidrafeek/atomsk_jll.jl/releases/download/atomsk-v0.11.2+0/atomsk.v0.11.2.i686-linux-gnu.tar.gz"
+[[atomsk]]
+arch = "i686"
+git-tree-sha1 = "b94d7ade85231b5f5e7c1349efd955439d04b9dd"
+libc = "musl"
+os = "linux"
+
+    [[atomsk.download]]
+    sha256 = "d08a7164adad5912834f924e006f15e584c87145e4f48dfc9b2a0c1d45366b1f"
+    url = "https://github.com/rashidrafeek/atomsk_jll.jl/releases/download/atomsk-v0.11.2+0/atomsk.v0.11.2.i686-linux-musl.tar.gz"
+[[atomsk]]
+arch = "powerpc64le"
+git-tree-sha1 = "73a5a9b70d7c7feab14c67aa0889ddaa7b66f58f"
+libc = "glibc"
+os = "linux"
+
+    [[atomsk.download]]
+    sha256 = "cfb18c3a786e651837d39457d24e7e18821f29f7bb03490b1a61ecf766b801c1"
+    url = "https://github.com/rashidrafeek/atomsk_jll.jl/releases/download/atomsk-v0.11.2+0/atomsk.v0.11.2.powerpc64le-linux-gnu.tar.gz"
+[[atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "cd04cc16914b1616a9ef3616209456e551d3169d"
+libc = "glibc"
+os = "linux"
+
+    [[atomsk.download]]
+    sha256 = "c44ec28c2ec7d5f928e0ebe4d2d9f670daf447bceaca3979fd672eaff2132c50"
+    url = "https://github.com/rashidrafeek/atomsk_jll.jl/releases/download/atomsk-v0.11.2+0/atomsk.v0.11.2.x86_64-linux-gnu.tar.gz"
+[[atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "b8d46accf2157d6852a442b6bb78df1b6be5b621"
+libc = "musl"
+os = "linux"
+
+    [[atomsk.download]]
+    sha256 = "0a07f5633b70efb6a1ad61d2049e2c3eea96ff02645a2b7f00f5f0ab985450e1"
+    url = "https://github.com/rashidrafeek/atomsk_jll.jl/releases/download/atomsk-v0.11.2+0/atomsk.v0.11.2.x86_64-linux-musl.tar.gz"
+[[atomsk]]
+arch = "x86_64"
+git-tree-sha1 = "07d65e97fca827db55992886a20788734b109be1"
+os = "freebsd"
+
+    [[atomsk.download]]
+    sha256 = "96bf2a5079fc4a5fc8f7a42429cc2849821913b75a0161964e720dee13d0e58e"
+    url = "https://github.com/rashidrafeek/atomsk_jll.jl/releases/download/atomsk-v0.11.2+0/atomsk.v0.11.2.x86_64-unknown-freebsd.tar.gz"
